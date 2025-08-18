@@ -90,7 +90,7 @@ O sistema de videochamada é uma solução moderna e eficiente, projetada para p
    - Interface amigável com suporte para diferentes dispositivos e navegadores.  
 
 5. **Integração Fácil:**  
-   - O backend modular permite integração com sistemas externos, como plataformas de aprendizado ou gestão empresarial.  
+   - O backend modular permite integração com sistemas externos, como plataformas de aprendizado ou gestão empresarial.
 
 ---
 
