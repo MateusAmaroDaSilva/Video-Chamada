@@ -1,4 +1,4 @@
-# Sistema de Videochamada – Formato de Desenvolvimento  
+# Sistema de Videochamada – Formato de Desenvolvimento 
 
 O sistema de videochamada é uma solução moderna e eficiente, projetada para proporcionar comunicação audiovisual de alta qualidade e funcionalidades de suporte em tempo real. Ele combina tecnologias de ponta para garantir uma experiência fluida e intuitiva, atendendo às necessidades de usuários corporativos, educacionais e pessoais.  
 
